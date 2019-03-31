@@ -2,4 +2,4 @@
 
 절대강좌! VR/AR 책에서 사용하는 리소스입니다.
 
-Resources.zip
+[Resources.zip](https://github.com/IndieGameMaker/VR2019/blob/master/Resources.zip)
