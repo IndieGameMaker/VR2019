@@ -3,9 +3,9 @@
 "절대강좌! VR/AR" 책에서 사용하는 리소스 파일입니다.
 이 리소스는 개인 공부의 목적으로만 사용하셔야 합니다.
 
-[Resources.zip](https://github.com/IndieGameMaker/VR2019/raw/master/Resources.zip)
+[리소스 압축파일(Resources.zip)](https://github.com/IndieGameMaker/VR2019/raw/master/Resources.zip)
 
-[탬플릿 프로젝트](https://drive.google.com/open?id=1ZOEvygBZTHJQwlo2DaENfW9VDv6j6kMx)
+[탬플릿 프로젝트(FantasyLand_Templete_Project.zip)](https://drive.google.com/open?id=1ZOEvygBZTHJQwlo2DaENfW9VDv6j6kMx)
 
 Q&A는 [www.Unity3dStudy.com](http://www.Unity3dStudy.com) 에 글을 남겨주세요.
 
